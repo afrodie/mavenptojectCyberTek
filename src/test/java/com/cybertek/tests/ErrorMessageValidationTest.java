@@ -1,11 +1,9 @@
 package com.cybertek.tests;
 
+import com.cybertek.Utilities.TestBase;
 import com.cybertek.pages.HomePage;
 import com.cybertek.pages.ListingPage;
 import com.cybertek.pages.PrestashopHomePage;
-import com.cybertek.utilities.ConfigurationReader;
-import com.cybertek.utilities.TestBase;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
